@@ -1,5 +1,7 @@
 # BANCO-DE-DADOS
 
+O objetivo do trabalho passado é compreender e aprender a manipulação das ferramentas de um banco de dados em SQL (tabela). O código usado como base para tais informações é uma tabela denominada país, que dela serão retiradas as manipulações necessárias para o aprendizado com SQL.
+
 ## 1. Selecione todos os dados dos países da tabela_paises;
 ```SQL
 SELECT * FROM tabela_paises;
@@ -77,25 +79,7 @@ SELECT DISTINCT pais FROM tabela_paises ORDER BY pais;
 ![image](https://github.com/Kelly-Romualdo/BANCO-DE-DADOS/assets/116984087/47232187-f50b-4ca0-af51-e2154133094a)
 
 
+Aluna: Kelly Romualdo Palhano Bezerra
+Escola:E.E.E.P Manoel Mano 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Prof: Adeilson Aragão 
